@@ -1,0 +1,4 @@
+pip install pytesseract
+pip install PyPDF2
+pip install PIL
+pip install pdf2image
